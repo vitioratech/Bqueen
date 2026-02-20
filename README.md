@@ -21,7 +21,7 @@ This repo is configured to deploy automatically to **GitHub Pages** using:
 
 1. Open repository **Settings → Pages**.
 2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Push changes to the `work` branch (or run manually from **Actions**).
+3. Push changes to `work`, `main`, or `master` (or run manually from **Actions**).
 
 After deployment, GitHub displays the live URL in the workflow run summary.
 
